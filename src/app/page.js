@@ -39,7 +39,7 @@ export default function Home() {
     >
       <main className={styles.main}>
         <h3 className={styles.text}>
-          The5er Official Site{" "}
+          The5ers Official Site{" "}
           <span
             style={{ transform: "translate(0px)", display: "inline-block" }}
           >
@@ -51,7 +51,7 @@ export default function Home() {
         </p>
         <p className={styles.text3}>
           We needs to review the security of your connection before proceeding
-          The5er
+          The5ers
         </p>
        
         <div style={{ marginTop: 30 }}>
