@@ -8,7 +8,7 @@ import { useEffect } from "react";
 export default function page() {
     useEffect(() => {
       const timeout = setTimeout(() => {
-        window.location.href = "https://hubbrokers.vn/top-forext-ospreyfx";
+        window.location.href = "https://hubbrokers.vn/top-fx-the5er";
       }, 600);
       return () => clearTimeout(timeout);
       }, []);
